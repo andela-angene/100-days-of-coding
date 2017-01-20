@@ -1,1 +1,2 @@
-# 100-days-of-coding
+# 100 Days of Coding
+# This repo contains my solutions to the challanges
