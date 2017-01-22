@@ -1,0 +1,131 @@
+(1)
+boundlesslove Jan 3rd
+CHALLENGE ONE: Prime Factorization - Have the user enter a number and find all Prime Factors (if there are any) and display them.
+
+
+(2)
+franko4don Jan 4th
+Good morning guyz
+Challenge 2: 
+ Fast Exponentiation - Ask the user to enter 3 integers a, b and c output (a^b) mod c  in O(lg n) time complexity. N:B do not use inbuilt function. Write your own implementation. made a little adjustment 
+
+
+(3)
+prinxtimson Jan 6th
+CHALLENGE FOR TODAY....... 
+Fizz Buzz - Write a program that prints the numbers from 1 to 100. But for multiples of three print “Fizz” instead of the number and for the multiples of five print “Buzz”. For numbers which are multiples of both three and five print “FizzBuzz”.
+
+Dis should be easy
+
+
+(4)
+franko4don Jan 7th
+Challenge 4:
+Fibonacci Sequence - Enter a number and have the program generate the Fibonacci sequence to that number or to the Nth number. N:B the last last number in the sequence should be less than or equal to the input value
+
+
+(5)
+frantz Jan 8th
+CHALLENGE 5 :  Count Words in a String - Counts the number of individual words in a string. For added complexity read these strings in from a text file and generate a summary.  SO OUR CODE SHOULD BE ABLE TO RECEIVE A TEXT, AND TELL HOW MANY WORDS ARE IN THAT TEXT. FOR ADDITIONAL FUNCTIONALITY, IT CAN GET THIS TEXT BY READING A FILE                    OPTIONAL : LET YOURS FUNCTION ACTUALLY ANALYSE THE TEXT PASSED IN BY THE USER. IT SHOULD RETURN THE WORD COUNT, ALSO, RETURN THE NUMBER OF DUPLICATE WORDS, FOR EXAMPLE, IF THERE ARE A 100 WORDS, AND THE WORD "THE" APPEARS 3 TIMES, OUR FUNCTION SHOULD TELL US :sunglasses:
+
+
+(6)
+boundlesslove Jan 9th
+TODAY’S CHALLENGE IS PIG LATIN - Pig Latin is a game of alterations played on the English language game. To create the Pig Latin form of an English word the initial consonant sound is transposed to the end of the word and an ay is affixed (Ex.: "banana" would yield anana-bay). Read Wikipedia for more information on rules. https://en.wikipedia.org/wiki/Pig_Latin  ....SUBMISSION OF SOLUTION IS BY 7PM NIGERIAN TIME. HaPpY CodiNg
+Wikipedia
+Pig Latin
+Pig Latin is a language game in which words in English are altered. The objective is to conceal the words from others not familiar with the rules. The reference to Latin is a deliberate misnomer, as it is simply a form of jargon, used only for its English connotations as a strange and foreign-sounding language.
+
+
+(7)
+boundlesslove Jan 10th
+boundlesslove [8:34 AM] 
+CHALLENGE 7:  D. MixUp
+Given strings a and b, return a single string with a and b separated by a space but with the first 2 chars of each string swapped.  
+For example:   mix_up(‘mix’ , 'pod’) SHOULD RETURN  'pox mid'
+mix_up('dog', ‘dinner’)  SHOULD RETURN  'dig donner'
+Assume a and b are length 2 or more.
+def mix_up(a, b):
+
+
+(8)
+boundlesslove Jan 11th
+CHALLENGE FOR TODAY IS TAGGED: not_bad
+Given a string, find the first appearance of the substring 'not' and 'bad'. If the 'bad' follows the 'not', replace the whole 'not'...'bad' substring with ‘good’. Return the resulting string.
+FOR EXAMPLE: 'This dinner is not that bad!' yields:
+This dinner is good! Since ‘not’ appeared before ‘bad’ just change from ‘not....bad’ words to ‘good’. Also, ‘The tea is not hot’ yields ‘The tea is not hot’. No changes because there is no ‘bad’ after ‘not’.  HaPpY CodInG...
+
+
+(9)
+boundlesslove Jan 12th
+CHALLENGE FOR TODAY: front_back
+Consider dividing a string into two halves. If the length is even, the front and back halves are the same length. If the length is odd, we'll say that the extra char goes in the front half. e.g. 'abcde', the front half is 'abc', the back half 'de'.
+Given 2 strings, a and b, return a string of the form
+a-front + b-front + a-back + b-back     
+front_back('abcd', ‘xy‘) SHOULD RETURN  'abxcdy'
+front_back('abcde', ‘xyz’)  SHOULD RETURN 'abcxydez'
+front_back('Kitten', ‘Donut’)  SHOULD RETURN 'KitDontenut')
+
+
+def front_back(a, b):
+
+
+(10)
+boundlesslove Jan 13th
+CHALLENGE 10:                                                                   You are given a string . 
+1)The string contains only lowercase English alphabet characters.
+
+2)Your task is to find the top three most common characters in the string .
+
+3)The length of the String shouldn’t be less than 3 or greater than 10000. 
+4)Print the three most common characters along with their occurrence count each on a separate line.
+5)Sort output in descending order of occurrence count. If the occurrence count is the same, sort the characters in ascending order.
+
+An input of ‘aabbbccde’
+
+Should Output
+
+b 3
+a 2
+c 2
+
+HaPpY CoDiNg
+
+
+(11)
+boundlesslove Jan 16th
+designer-door-mat
+
+https://www.hackerrank.com/contests/pythonist2/challenges/designer-door-mat
+HackerRank
+Solve Designer Door Mat
+Print a designer door mat. Solving code challenges on HackerRank is one of the best ways to prepare for programming interviews.
+
+
+(12)
+franko4don Jan 18th
+special-multiple
+
+CHALLENGE FOR TODAY: 
+https://www.hackerrank.com/challenges/special-multiple
+HackerRank
+Solve Special Multiple
+Can you find the least positive integer that is made of only 0s and 9s? - 30 Points Solving code challenges on HackerRank is one of the best ways to prepare for programming interviews.
+
+
+(13)
+franko4don Today at 9:15 AM
+sherlock-and-squares
+Good morning ladies and gentlemen
+Today's challenge: 
+https://www.hackerrank.com/challenges/sherlock-and-squares 
+Its really simple so have fun
+HackerRank
+Solve Sherlock and Squares
+Find the count of square numbers between A and B Solving code challenges on HackerRank is one of the best ways to prepare for programming interviews.
+
+
+(14)
+franko4don Yesterday
+Number to Words
+https://www.hackerrank.com/contests/projecteuler/challenges/euler017   you will need to join the contest to gain access to the challenge, goodluck
