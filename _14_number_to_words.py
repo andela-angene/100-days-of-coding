@@ -1,3 +1,7 @@
+# franko4don Yesterday
+# Number to Words
+# https://www.hackerrank.com/contests/projecteuler/challenges/euler017   you will need to join the contest to gain access to the challenge, goodluck
+
 one_to_ninteen = ["", "One", "Two", "Three", "Four", "Five", "Six", "Seven", "Eight", "Nine", "Ten","Eleven", "Twelve", "Thirteen", "Fourteen", "Fifteen", "Sixteen", "Seventeen", "Eighteen", "Nineteen"]
 twenty_up = ["","","Twenty", "Thirty", "Forty", "Fifty", "Sixty", "Seventy", "Eighty", "Ninety"]
 

@@ -1,3 +1,8 @@
+# franko4don Jan 4th
+# Good morning guyz
+# Challenge 2: 
+#  Fast Exponentiation - Ask the user to enter 3 integers a, b and c output (a^b) mod c  in O(lg n) time complexity. N:B do not use inbuilt function. Write your own implementation. made a little adjustment 
+
 def fast_expon(inp):
     a,b,c = map (int, inp.split())
     bg = 1
@@ -12,4 +17,4 @@ def fast_expon(inp):
         sm += c
     return bg
 
-print fast_expon(raw_input())
+print fast_expon(raw_input('Enter numbes in this format: a b c '))

@@ -1,3 +1,6 @@
+# boundlesslove Jan 3rd
+# CHALLENGE ONE: Prime Factorization - Have the user enter a number and find all Prime Factors (if there are any) and display them.
+
 def prime_factors(num):
     i = 2
     ls = []
